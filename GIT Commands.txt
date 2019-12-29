@@ -1,0 +1,34 @@
+--first time 
+GIT STEPS
+
+1. navigate to the folder
+
+2. git init
+
+3. git add .
+
+4. git commit -m "First commit or any comments here"
+
+5. get remote add origin https://github.com/sudhanshusethi2006/December_2019_angular.git
+
+6. git push -u origin master
+
+
+
+---------other times
+
+git add .
+git commit -m "comments"
+git push
+
+------pull the code first time
+
+
+git clone "URL"
+
+------pull existing / get latest
+
+git pull
+
+
+
